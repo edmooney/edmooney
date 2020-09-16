@@ -7,10 +7,10 @@ Solutions Architect currently at [@vertexinc](https://github.com/vertexinc) doin
 * Docker
 * Bash/Python, various WebDev
 * [Rancher Certified Operator](https://academy.rancher.com/certificates/142e40ed08fd40e884d72536d28d85ee)
+* Various web tools.
 
-```
 see_more "profile-items" {
     LinkedIn = "https://linkedin.com/in/edmooney"
     Twitter = "https://twitter.com/edmooney"
 }
-```
+

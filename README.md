@@ -10,7 +10,10 @@ Solutions Architect currently at [@vertexinc](https://github.com/vertexinc) doin
 * Various web tools.
 
 see_more "profile-items" {
+
     LinkedIn = "https://linkedin.com/in/edmooney"
+    
     Twitter = "https://twitter.com/edmooney"
+    
 }
 

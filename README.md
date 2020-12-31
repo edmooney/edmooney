@@ -8,6 +8,7 @@ Solutions Architect currently at [@vertexinc](https://github.com/vertexinc) doin
 * Docker
 * Bash/Python
 * [Rancher Certified Operator](https://academy.rancher.com/certificates/142e40ed08fd40e884d72536d28d85ee)
+* GCP: Kubernetes in Google Cloud (12/2020)
 * mixed bag of web tools
 * AWS: EC2, DynamoDB, ELBs, S3, RDS, etc.
 

@@ -1,6 +1,6 @@
 ### Hello, I'm Ed Mooney
 
-Solutions Architect currently at [@vertexinc](https://github.com/vertexinc) doing DevOps and Automation work. Love seeing Dev❤️Ops as One and tools that make that easier. Excited about AR & the Dweb (Web 3.0) 🚀.
+Director of DevOps currently at [@signanthealth](https://twitter.com/signanthealth) building DevOps and Automation work. Love seeing Dev❤️Ops as One and tools that make that easier. Excited about AR & the Dweb (Web 3.0) 🚀.
 
 * Terraform
 * Ansible
